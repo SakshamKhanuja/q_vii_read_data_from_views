@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu</string>
+
+    <string name="itemOne">Mango sorbet</string>
+    <string name="itemTwo">Blueberry pie</string>
+    <string name="itemThree">Chocolate lava cake</string>
+    <string name="button">Print Menu to Logs</string>
+</resources>
